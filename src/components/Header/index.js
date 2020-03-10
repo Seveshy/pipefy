@@ -5,7 +5,7 @@ import { Container } from "./styles";
 export default function Header() {
   return (
     <Container>
-      <h1>Digitalfy</h1>
+      <h1>MajorFy</h1>
     </Container>
   );
 }
