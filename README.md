@@ -5,7 +5,7 @@ Project developed for study in the Rocketseat.
 # Used libraries
 
 - Create React App by [create-react-app](https://github.com/facebook/create-react-app)
-- react-icons [react-icons](https://react-icons.netlify.com/#/)
+- React Icons [react-icons](https://react-icons.netlify.com/#/)
 - Styled Components by [styled-components](https://www.styled-components.com/)
 
 ![](https://github.com/Seveshy/gif/blob/master/image.png)
