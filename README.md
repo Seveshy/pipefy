@@ -19,7 +19,7 @@ Project developed for study in the Rocketseat.
   git clone https://github.com/Seveshy/pipefy
 
 # Access project repository
-  cd gitcompare
+  cd pipefy
 
 # Install dependencies
   yarn install
